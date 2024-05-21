@@ -45,8 +45,18 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  
+  </p>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Backend-red?logo=java"> Backend
+
+<p align="center"> 
+	<img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-yellow?logo=java">
+ 	<img alt="Static Badge" src="https://img.shields.io/badge/Java%20Spring-green?logo=java">
+
+
+
 </p>
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend
 <p align="center"> 
